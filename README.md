@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:07111f,35:123b62,70:087e8b,100:19c6d2&text=NEUROTRACE&fontColor=ffffff&fontSize= sixty&fontAlignY=38&desc=NETWORK%20PACKET%20ANALYSIS%20%7C%20CODEALPHA%20CYBER%20SECURITY&descAlignY=60&descSize=14&animation=fadeIn" width="100%" alt="NEUROTRACE animated banner">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:07111f,35:123b62,70:087e8b,100:19c6d2&text=NEUROTRACE&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=NETWORK%20PACKET%20ANALYSIS%20%7C%20CODEALPHA%20CYBER%20SECURITY&descAlignY=60&descSize=14&animation=fadeIn" width="100%" alt="NEUROTRACE animated banner">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=900&color=19C6D2&center=true&vCenter=true&width=650&lines=See+beyond+the+packets.;Capture.+Inspect.+Understand.;Network+visibility+starts+here." alt="Typing animation">
 
